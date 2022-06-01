@@ -2,6 +2,6 @@
 Nesse GitHub deixo aqui dois arquivos;
 
 - 01 arquivo word com as principais etapas criadas na GCP, Big Query e DataFlowaflow (GCP).
-- 01 arquivo Python com as principais Apache Beam.A execução desse cenário corresponde a utilização de arquivo batch.
+- 01 arquivo Python com as principais funcões do Apache Beam.A execução desse cenário corresponde a utilização de arquivos batch.
 
 
